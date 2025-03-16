@@ -2,12 +2,17 @@
 
 一个基于 XYBot 框架的插件，用于集成 FastGPT 知识库问答功能。
 
+<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400" height="600">
+
 ## 简介 📚
 
 本插件允许用户通过微信机器人与 FastGPT 知识库进行交互。用户可以提问，机器人将调用 FastGPT API 获取答案并返回。支持群聊和私聊模式，并可配置积分系统。
 
 **作者：** 老夏的金库 💰
 **版本：** 1.0.0
+
+## 更多插件地址
+  [NanSsye's XYBotV2 Plugins Collection](https://github.com/NanSsye/XYBotV2-)
 
 ## 功能特性 ✨
 
