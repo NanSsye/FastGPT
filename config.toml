@@ -1,9 +1,9 @@
 [FastGPT]
 enable = true
 # FastGPT API配置
-api-key = "fastgpt-xxxxxx" # 替换为你的API密钥
+api-key = "" # 替换为你的API密钥
 base-url = "https://api.fastgpt.in/api" # FastGPT API基础URL
-app-id = "你的应用ID" # 替换为您的FastGPT应用ID
+app-id = "" # 替换为您的FastGPT应用ID
 
 # 命令配置
 commands = ["FastGPT", "fastgpt", "知识库"] # 触发插件的命令
@@ -21,4 +21,4 @@ http-proxy = "" # HTTP代理设置，如果需要
 # 积分系统
 price = 0 # 每次使用消耗的积分
 admin_ignore = true # 管理员是否免费使用
-whitelist_ignore = true # 白名单用户是否免费使用 
+whitelist_ignore = true # 白名单用户是否免费使用

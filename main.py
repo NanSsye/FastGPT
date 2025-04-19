@@ -18,6 +18,7 @@ class FastGPT(PluginBase):
     description = "FastGPT知识库问答插件"
     author = "老夏的金库"
     version = "1.0.0"
+    is_ai_platform = True  # 标记为 AI 平台插件
 
     def __init__(self):
         super().__init__()
