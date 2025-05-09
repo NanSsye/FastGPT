@@ -145,14 +145,14 @@ MIT License
 - 😊 社区任务全透明化，不仅开放阅读，也开放了创建，鼓励志愿者加入自己的梦想项目 https://task.xiaoyibao.com.cn 
 - 👌 首个贡献：您的辅导员，会和您一起沟通介绍，帮助您在第一周确定首个贡献计划 First Good Issue https://myfirst.xiao-x-bao.com.cn
 
-欢迎体验demo:
+- 欢迎体验demo:
 ⭐️ 小胰宝3个版本：https://chat.xiaoyibao.com.cn(科普版), https://pro.xiaoyibao.com.cn(pro版本），以及https://deepseek.xiaoyibao.com.cn
 ⭐️小肺宝: https://chat.xiaofeibao.com.cn
 ⭐️小萌宝: https://pro.xiaomengbao.cn/
 ⭐️小粉宝：https://xfb.xiaoyibao.com.cn (后续会有独立域名）
 ⭐️小胃宝:   https://chat.xiaoweibao.com.cn （科普版), https://pro.xiaoweibao.com.cn(专业版-首个社区合作项目）
 
-欢迎加入社区贡献项目：
+- 欢迎加入社区贡献项目：
 👏 为推广患者个人掌握智能体构建的 小X宝社区“AI探宝计划”(https://wiki.xiao-x-bao.com.cn)
 👏 标准的github/gitcode上的代码和项目贡献  我们已经开源了3个项目仓库，包括小胰宝，MinerU-xyb(https://github.com/PancrePal-xiaoyibao/miniapp-uniapp)，以及fastgpt-on-wechat（thttps://github.com/hanfangyuan4396/fastgpt-on-wechat），Gemini-2.0病情demo（https://github.com/PancrePal-xiaoyibao/gemini2.0-xiaoyibao）期待更多开源加入完善社区，提供开源能力；
 👏 开放病友共创的第一个标准wiki ： 小X宝社区“胰腺肿瘤并发症病友共创宝典” (https://bfz.xiao-x-bao.com.cn)
