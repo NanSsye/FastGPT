@@ -46,8 +46,8 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 class FastGPT(PluginBase):
     description = "FastGPT知识库问答插件"
-    author = "老夏的金库"
-    version = "1.3.0" # 版本号更新，体现新功能
+    author = "samqin-xiaoyibao社区贡献"
+    version = "1.5.0" # 版本号更新，体现新功能
     is_ai_platform = True
 
     def __init__(self):
